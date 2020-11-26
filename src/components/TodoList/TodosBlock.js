@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import useTodos from './useTodos';
+import useTodos from '../../hooks/useTodos';
 
 const TodoInput = styled.section`
   padding: 20px;
